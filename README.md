@@ -5,7 +5,12 @@
         <title>Project: Travel webpage</title>
     </head>
     <body>
-    
+    <style>
+        p {
+        background-color: rgb(0,0,0);
+        color: rgb(255,255,255);
+        }
+    </style>
         <h1>Travel to Space!</h1>
         <h2>An Intro</h2>
         <p>Hello guys! On this website(webpage) I will make you relly want to go to space or research sapce. This is my first website so don't blame me if it isn't as good as you expected it. (Please ignore "<!DOCTYPE html>".) I will include <em>pictures</em> and jucy facts. <strong>Please read until the end!</strong></p>
