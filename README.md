@@ -15,7 +15,7 @@
         
         <img src="https://cnet4.cbsistatic.com/img/-JKG69A9xmdlvxVwYtpIztVHxHI=/940x0/2018/08/21/09803db6-578f-41f7-9c7a-0b9efc5d6751/starshot-satellite-launch.jpg" alt="A Satalite">
         <img src="https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/andromeda-galaxy-royalty-free-image-1585682435.jpg" alt="THe milky way">
-        <img src="https://www.kasandbox.org/programming-images/space/star.png" alt="A Star">
+        <img src="https://cdn.mos.cms.futurecdn.net/qqQFZdAYCDxMvVmyPGSubk.jpg" alt="A collison in an exoplanet area">
         <img src="https://www.kasandbox.org/programming-images/space/star.png" alt="A Star">
         
     </body>
