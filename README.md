@@ -7,8 +7,8 @@
     <body>
     <style>
         p {
-        background-color: rgb(#00fff2);
-        color: rgb(#fff200);
+        background-color: rgb(0, 255, 242);
+        color: rgb(255, 242, 0);
         }
     </style>
         <h1>Travel to Space!</h1>
