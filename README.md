@@ -6,7 +6,7 @@
     </head>
     <body>
     <style>
-        {
+        p h1 h2{
         background-color: rgb(0, 255, 242);
         color: rgb(255, 242, 0);
         }
