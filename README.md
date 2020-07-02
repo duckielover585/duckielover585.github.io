@@ -2,7 +2,8 @@
 <html>
     <head>
         <meta charset="utf-8">
-        <title>Project: Travel webpage</title>
+        <title>
+        </title>
     </head>
     <body background="Yellow">
     <style>
