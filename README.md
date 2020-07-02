@@ -4,7 +4,7 @@
         <meta charset="utf-8">
         <title>Project: Travel webpage</title>
     </head>
-    <body>
+    <body background="Yellow">
     <style>
         p, h1, h2{
         background-color: rgb(0, 255, 242);
